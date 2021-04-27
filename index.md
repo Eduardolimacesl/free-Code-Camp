@@ -1,5 +1,6 @@
-<h1>Hello Word</h1>
-# Freecodecamp learn pathway
-### Pages created:
-1. HTML and CSS basics
-2. 
+<h1>Freecodecamp learn pathway </h1>
+<h3>Pages created:</h3>
+<ol>
+  <li>HTML and CSS basics</li>
+</ol>
+

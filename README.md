@@ -1,2 +1,2 @@
-# free-Code-Camp
-Repo to study FreeCodeCamp curriculum.
+# FreeCodeCamp
+> Repo to study FreeCodeCamp curriculum.
